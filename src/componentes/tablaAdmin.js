@@ -10,6 +10,6 @@ export const tablaAdmin = {
         </table>    
     `,
     script: ()=>{
-        console.log('Hola soy la tabla');
+        console.log('Hola soy el formulario');
     }
 }

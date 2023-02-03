@@ -1,4 +1,5 @@
 import { tablaAdmin } from "../componentes/tablaAdmin"
+import { registre } from "../componentes/registre";
 
 export const adminUsers = {
     template: `
